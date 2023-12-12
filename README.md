@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Unity & CS**
 
-- 📫 How to reach me **hwoo1243@gmail.com**
+- 📫 How to reach me **hwoon1243@gmail.com**
 
 - 📄 Know about my experiences [https://kyeonghoon.kr/](https://kyeonghoon.kr/)
 
