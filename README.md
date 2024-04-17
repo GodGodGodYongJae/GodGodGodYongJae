@@ -17,9 +17,7 @@
 
 - 🔭 I’m currently working on [Snackr](https://snackr.social/)
 
-- 🌱 I’m currently learning **CI/CD & TDD & Unreal Engine **
-[https://kyeonghoons-unreal.gitbook.io/unreal-learn/](https://kyeonghoons-unreal.gitbook.io/unreal-learn/).
-
+- 🌱 I’m currently learning **CI/CD & TDD **
 
 - 📝 I regularly write articles on [https://studybacksu.tistory.com/](https://studybacksu.tistory.com/)
 
